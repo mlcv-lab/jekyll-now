@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Machine Learning and Computer Vision Laboratory. 
+
 Faculty of Computer Science. 
+
 Universitas Indonesia.
 
 ### More Information
