@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Machine Learning and Computer Vision Laboratory. 
+*Machine Learning and Computer Vision Laboratory.* 
 
-Faculty of Computer Science. 
+*[Faculty of Computer Science.](http://www.cs.ui.ac.id)* 
 
-Universitas Indonesia.
+*[Universitas Indonesia.](http://www.ui.ac.id)*
 
 ### More Information
 
