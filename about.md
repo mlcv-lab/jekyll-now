@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Machine Learning and Computer Vision Laboratory. 
+Faculty of Computer Science. 
+Universitas Indonesia.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This website organizes our publicly open codes 
+and data repository to promote collaboration and
+faster progression of science and technology 
+especially on Machine Learning and Computer Vision.  
 
-### Contact me
+[mlcv.cs.ui.ac.id](mlcv.cs.ui.ac.id)
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us
+
+[lab3213@gmail.com](mailto:lab3213@gmail.com)
