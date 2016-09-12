@@ -12,7 +12,7 @@ permalink: /about/
 
 ### More Information
 
-This website organizes our publicly open codes 
+This website organizes our publicly open source codes 
 and data repository to promote collaboration and
 faster progression of science and technology 
 especially on Machine Learning and Computer Vision.  
