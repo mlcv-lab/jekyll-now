@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Source Codes \& Data Repository
+title: Source Codes & Data Repository
 ---
 
 ## [Adaptive Online Sequential ELM for Concept Drift Tackling](https://www.hindawi.com/journals/cin/2016/8091267/)
