@@ -37,6 +37,7 @@ In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Alloc
 
 [Source code](https://github.com/jansonh/Cheating-Detection-MCMCLDA)
 
+[Data](https://drive.google.com/open?id=0Bz96X-nFVG-kUW5IUXllY0F6eXc)
 
 [//]: # (Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).)
 
