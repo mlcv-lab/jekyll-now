@@ -2,11 +2,11 @@
 layout: post
 title: Publications
 ---
-1. [Adaptive Online Sequential ELM for Concept Drift Tackling]()
-2. [Classifying Abnormal Activities in Exam Using Multi-class Markov Chain LDA Based on MODEC Features]()
-3. [Metaheuristic Algorithms for Convolution Neural Network]()
+1. [Adaptive Online Sequential ELM for Concept Drift Tackling](https://mlcv-lab.github.io/Publications#adaptive-online-sequential-elm-for-concept-drift-tackling)
+2. [Classifying Abnormal Activities in Exam Using Multi-class Markov Chain LDA Based on MODEC Features](https://mlcv-lab.github.io/Publications#classifying-abnormal-activities-in-exam-using-multi-class-markov-chain-lda-based-on-modec-features)
+3. [Metaheuristic Algorithms for Convolution Neural Network](https://mlcv-lab.github.io/Publications#metaheuristic-algorithms-for-convolution-neural-network)
 
-## Adaptive Online Sequential ELM for Concept Drift Tackling [[Back to Top]](https://mlcv-lab.github.io/Publications)
+## Adaptive Online Sequential ELM for Concept Drift Tackling
 
 ### Abstract
 
@@ -20,7 +20,9 @@ A machine learning method needs to adapt to over time changes in the environment
 
 Indexing: [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993962/)
 
-## Classifying Abnormal Activities in Exam Using Multi-class Markov Chain LDA Based on MODEC Features [[Back to Top]](https://mlcv-lab.github.io/Publications)
+[[Back to Top]](https://mlcv-lab.github.io/Publications)
+
+## Classifying Abnormal Activities in Exam Using Multi-class Markov Chain LDA Based on MODEC Features
 
 ### Abstract
 
@@ -32,7 +34,9 @@ In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Alloc
 
 [Data](https://drive.google.com/open?id=0Bz96X-nFVG-kUW5IUXllY0F6eXc)
 
-## Metaheuristic Algorithms for Convolution Neural Network [[Back to Top]](https://mlcv-lab.github.io/Publications)
+[[Back to Top]](https://mlcv-lab.github.io/Publications)
+
+## Metaheuristic Algorithms for Convolution Neural Network
 
 ### Abstract
 
@@ -44,3 +48,5 @@ A typical modern optimization technique is usually either heuristic or metaheuri
 
 Indexing:
 [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916328/) [Ebsco](http://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16875265&AN=115985825&h=REeXbc79ljlHu1rpuJUNNgNhpkItEzTm1Oh9s%2bhEgZgSMKYAoR7Nae0SvQDyDmpTNBW%2b8CW6FO33NnoDM%2bCyMQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d16875265%26AN%3d115985825) [SemanticScholar](https://www.semanticscholar.org/paper/Metaheuristic-Algorithms-for-Convolution-Neural-Rere-Fanany/55e41ba8798bdc4cd07d3977e8d10f994f95ee6c) [NewsCentra](http://newscentral.exsees.com/item/dc94092311963f52023c6a0054c335fe-c1301184d53038c25b03600541a316dc) [MySizzle](http://www.myscizzle.com/search/abstract?id=27375738) [SaskatoonLibrary](http://saskatoonlibrary.ca/eds/item?dbid=edb&an=115985825)
+
+[[Back to Top]](https://mlcv-lab.github.io/Publications)
