@@ -7,6 +7,7 @@ title: Publications
 3. [Metaheuristic Algorithms for Convolution Neural Network]()
 
 ## Adaptive Online Sequential ELM for Concept Drift Tackling [[Back to Top]](https://mlcv-lab.github.io/Publications)
+
 ### Abstract
 
 A machine learning method needs to adapt to over time changes in the environment. Such changes are known as concept drift. In this paper, we propose concept drift tackling method as an enhancement of Online Sequential Extreme Learning Machine (OS-ELM) and Constructive Enhancement OS-ELM (CEOS-ELM) by adding adaptive capability for classification and regression problem. The scheme is named as adaptive OS-ELM (AOS-ELM). It is a single classifier scheme that works well to handle real drift, virtual drift, and hybrid drift. The AOS-ELM also works well for sudden drift and recurrent context change type. The scheme is a simple unified method implemented in simple lines of code. We evaluated AOS-ELM on regression and classification problem by using concept drift public data set (SEA and STAGGER) and other public data sets such as MNIST, USPS, and IDS. Experiments show that our method gives higher kappa value compared to the multiclassifier ELM ensemble. Even though AOS-ELM in practice does not need hidden nodes increase, we address some issues related to the increasing of the hidden nodes such as error condition and rank values. We propose taking the rank of the pseudoinverse matrix as an indicator parameter to detect “underfitting” condition.
@@ -20,6 +21,7 @@ A machine learning method needs to adapt to over time changes in the environment
 Indexing: [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993962/)
 
 ## Classifying Abnormal Activities in Exam Using Multi-class Markov Chain LDA Based on MODEC Features [[Back to Top]](https://mlcv-lab.github.io/Publications)
+
 ### Abstract
 
 In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Allocation) model to classify abnormal activity of students in an examination. Abnormal activity in exams is defined as a cheating activity. We compare the usage of Harris3D interest point detector and a human joints detector, MODEC (Multimodal Decomposable Models), as the feature detector. Experiment results show that using MODEC to detect arm joints and head location as interest point gives better performance in accuracy and computational time than Harris3D when classifying cheating activity. MODEC suffers low accuracy due to its inability to differentiate elbow and wrist when the object wears clothes with indistinguishable colors. Meanwhile, Harris3D detects too many irrelevant interest point to recognize cheating activity reliably.
@@ -31,6 +33,7 @@ In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Alloc
 [Data](https://drive.google.com/open?id=0Bz96X-nFVG-kUW5IUXllY0F6eXc)
 
 ## Metaheuristic Algorithms for Convolution Neural Network [[Back to Top]](https://mlcv-lab.github.io/Publications)
+
 ### Abstract
 
 A typical modern optimization technique is usually either heuristic or metaheuristic. This technique has managed to solve some optimization problems in the research area of science, engineering, and industry. However, implementation strategy of metaheuristic for accuracy improvement on convolution neural networks (CNN), a famous deep learning method, is still rarely investigated. Deep learning relates to a type of machine learning technique, where its aim is to move closer to the goal of artificial intelligence of creating a machine that could successfully perform any intellectual tasks that can be carried out by a human. In this paper, we propose the implementation strategy of three popular metaheuristic approaches, that is, simulated annealing, differential evolution, and harmony search, to optimize CNN. The performances of these metaheuristic methods in optimizing CNN on classifying MNIST and CIFAR dataset were evaluated and compared. Furthermore, the proposed methods are also compared with the original CNN. Although the proposed methods show an increase in the computation time, their accuracy has also been improved (up to 7.14 percent).
