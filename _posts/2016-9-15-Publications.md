@@ -14,11 +14,11 @@ A machine learning method needs to adapt to over time changes in the environment
 
 [Paper](https://www.hindawi.com/journals/cin/2016/8091267/){:target="_blank"}
 
-[Source code](https://github.com/mlcv-lab/adaptive-OS-ELM)
+[Source code](https://github.com/mlcv-lab/adaptive-OS-ELM){:target="_blank"}
 
-[Data](https://drive.google.com/?authuser=0#folders/0B8Db7VyHy5jocnNuOGJzTW4xMVU)
+[Data](https://drive.google.com/?authuser=0#folders/0B8Db7VyHy5jocnNuOGJzTW4xMVU){:target="_blank"}
 
-Indexing: [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993962/)
+Indexing: [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993962/){:target="_blank"}
 
 [[Back to Top]](https://mlcv-lab.github.io/Publications)
 
@@ -28,11 +28,11 @@ Indexing: [Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993962/)
 
 In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Allocation) model to classify abnormal activity of students in an examination. Abnormal activity in exams is defined as a cheating activity. We compare the usage of Harris3D interest point detector and a human joints detector, MODEC (Multimodal Decomposable Models), as the feature detector. Experiment results show that using MODEC to detect arm joints and head location as interest point gives better performance in accuracy and computational time than Harris3D when classifying cheating activity. MODEC suffers low accuracy due to its inability to differentiate elbow and wrist when the object wears clothes with indistinguishable colors. Meanwhile, Harris3D detects too many irrelevant interest point to recognize cheating activity reliably.
 
-[Paper](https://www.researchgate.net/publication/301202274_Classifying_Abnormal_Activities_in_Exam_Using_Multi-class_Markov_Chain_LDA_Based_on_MODEC_Features)
+[Paper](https://www.researchgate.net/publication/301202274_Classifying_Abnormal_Activities_in_Exam_Using_Multi-class_Markov_Chain_LDA_Based_on_MODEC_Features){:target="_blank"}
 
-[Source code](https://github.com/jansonh/Cheating-Detection-MCMCLDA)
+[Source code](https://github.com/jansonh/Cheating-Detection-MCMCLDA){:target="_blank"}
 
-[Data](https://drive.google.com/open?id=0Bz96X-nFVG-kUW5IUXllY0F6eXc)
+[Data](https://drive.google.com/open?id=0Bz96X-nFVG-kUW5IUXllY0F6eXc){:target="_blank"}
 
 [[Back to Top]](https://mlcv-lab.github.io/Publications)
 
@@ -42,11 +42,11 @@ In this paper, we apply MCMCLDA (Multi-class Markov Chain Latent Dirichlet Alloc
 
 A typical modern optimization technique is usually either heuristic or metaheuristic. This technique has managed to solve some optimization problems in the research area of science, engineering, and industry. However, implementation strategy of metaheuristic for accuracy improvement on convolution neural networks (CNN), a famous deep learning method, is still rarely investigated. Deep learning relates to a type of machine learning technique, where its aim is to move closer to the goal of artificial intelligence of creating a machine that could successfully perform any intellectual tasks that can be carried out by a human. In this paper, we propose the implementation strategy of three popular metaheuristic approaches, that is, simulated annealing, differential evolution, and harmony search, to optimize CNN. The performances of these metaheuristic methods in optimizing CNN on classifying MNIST and CIFAR dataset were evaluated and compared. Furthermore, the proposed methods are also compared with the original CNN. Although the proposed methods show an increase in the computation time, their accuracy has also been improved (up to 7.14 percent).
 
-[Paper](https://www.hindawi.com/journals/cin/2016/1537325/)
+[Paper](https://www.hindawi.com/journals/cin/2016/1537325/){:target="_blank"}
 
-[Source code](https://github.com/mlcv-lab/Metaheuristic-Algorithms-CNN)
+[Source code](https://github.com/mlcv-lab/Metaheuristic-Algorithms-CNN){:target="_blank"}
 
 Indexing:
-[Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916328/) [Ebsco](http://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16875265&AN=115985825&h=REeXbc79ljlHu1rpuJUNNgNhpkItEzTm1Oh9s%2bhEgZgSMKYAoR7Nae0SvQDyDmpTNBW%2b8CW6FO33NnoDM%2bCyMQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d16875265%26AN%3d115985825) [SemanticScholar](https://www.semanticscholar.org/paper/Metaheuristic-Algorithms-for-Convolution-Neural-Rere-Fanany/55e41ba8798bdc4cd07d3977e8d10f994f95ee6c) [NewsCentra](http://newscentral.exsees.com/item/dc94092311963f52023c6a0054c335fe-c1301184d53038c25b03600541a316dc) [MySizzle](http://www.myscizzle.com/search/abstract?id=27375738) [SaskatoonLibrary](http://saskatoonlibrary.ca/eds/item?dbid=edb&an=115985825)
+[Pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916328/){:target="_blank"} [Ebsco](http://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16875265&AN=115985825&h=REeXbc79ljlHu1rpuJUNNgNhpkItEzTm1Oh9s%2bhEgZgSMKYAoR7Nae0SvQDyDmpTNBW%2b8CW6FO33NnoDM%2bCyMQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d16875265%26AN%3d115985825){:target="_blank"} [SemanticScholar](https://www.semanticscholar.org/paper/Metaheuristic-Algorithms-for-Convolution-Neural-Rere-Fanany/55e41ba8798bdc4cd07d3977e8d10f994f95ee6c){:target="_blank"} [NewsCentra](http://newscentral.exsees.com/item/dc94092311963f52023c6a0054c335fe-c1301184d53038c25b03600541a316dc){:target="_blank"} [MySizzle](http://www.myscizzle.com/search/abstract?id=27375738){:target="_blank"} [SaskatoonLibrary](http://saskatoonlibrary.ca/eds/item?dbid=edb&an=115985825){:target="_blank"}
 
 [[Back to Top]](https://mlcv-lab.github.io/Publications)
