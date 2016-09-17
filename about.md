@@ -17,7 +17,7 @@ and data repository to promote collaboration and
 faster progression of science and technology 
 especially on Machine Learning and Computer Vision.  
 
-[mlcv.cs.ui.ac.id](mlcv.cs.ui.ac.id){:target="_blank"}
+[mlcv.cs.ui.ac.id](http://mlcv.cs.ui.ac.id){:target="_blank"}
 
 ### Contact us
 
